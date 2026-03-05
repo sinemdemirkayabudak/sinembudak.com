@@ -21,7 +21,7 @@ ignoreErrors = ["error-remote-getjson"]
   # home page profile
   avatar = 'sinemdbudak@gmail.com'                 # gravatar email or image url
   name = 'Sinem Demirkaya-Budak'
-  bio = 'Bioinformatics Engineer'
+  bio = 'Building tools for life sciences, sharing thoughts and code'
 
   # misc
   disableHLJS = false                        # disable highlight.js
