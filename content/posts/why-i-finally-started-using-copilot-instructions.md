@@ -1,6 +1,6 @@
 +++
 date = '2026-03-06T23:57:07+03:00'
-draft = true
+draft = false
 title = 'Why I Finally Started Using copilot-instructions.md'
 tags = ['GitHub Copilot']
 +++
