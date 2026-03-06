@@ -50,8 +50,9 @@ ignoreErrors = ["error-remote-getjson"]
   [[menu.main]]
     identifier = "cv"
     name = "CV"
-    url = "/Sinem-DemirkayaBudak-CV.pdf"
+    url = "/sinem-demirkayabudak-cv.pdf"
     weight = 2
+    params = {target = "_blank"}
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
