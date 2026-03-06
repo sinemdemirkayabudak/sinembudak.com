@@ -98,4 +98,4 @@ ignoreErrors = ["error-remote-getjson"]
     [markup.goldmark.renderer]
       unsafe = true
  [markup.highlight]
-   lineNos = true
+   lineNos = false
