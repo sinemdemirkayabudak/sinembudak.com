@@ -1,7 +1,7 @@
 +++
 date = '2026-02-28T22:18:06+03:00'
 draft = false
-title = 'Welcome to my corner of the internet'
+title = 'Welcome to My Corner of the Internet'
 tags = ['Welcome']
 +++
 

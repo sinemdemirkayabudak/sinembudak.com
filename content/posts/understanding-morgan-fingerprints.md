@@ -2,7 +2,7 @@
 date = '2026-03-07T01:52:30+03:00'
 draft = false
 title = 'Understanding Morgan Fingerprints'
-tags = ['Cheminformatics']
+tags = ['Cheminformatics', 'SMILES']
 +++
 
 

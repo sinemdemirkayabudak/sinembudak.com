@@ -24,8 +24,6 @@ The magic? Once I create it, Copilot automatically uses it for every request in 
 # My Project Copilot Instructions
 
 ## Key rules
-- Use camelCase for variable and function names.
-- Format code with 2 spaces for indentation.
 - ⁠All new dependencies go through ⁠uv add.
 - ⁠Follow ruff formatting rules.
 
