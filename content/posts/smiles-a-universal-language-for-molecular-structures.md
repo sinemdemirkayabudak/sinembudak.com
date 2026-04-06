@@ -1,7 +1,7 @@
 +++
 date = '2026-04-06T16:00:06+03:00'
 draft = false
-title = 'SMILES'
+title = 'SMILES: A Universal Language for Molecular Structures'
 tags = ["Cheminformatics", "SMILES", "molecular-representation"]
 +++
 
